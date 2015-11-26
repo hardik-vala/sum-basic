@@ -1,0 +1,70 @@
+{
+	"cluster-1": {
+		"doc-1": {
+			"title": "Jolie boost for breast cancer operations: Actress's openness about her double mastectomy has led to tripling of women undergoing life-saving procedure",
+			"org": "Daily Mail",
+			"date": "2015-11-25"
+		},
+		"doc-2": {
+			"title": "'Angelina Jolie effect' a life saver as double mastectomies TREBLE since star had breasts removed",
+			"org": "Mirror",
+			"date": "2015-11-25"
+		},
+		"doc-3": {
+			"title": "'Angelina effect' leads to rise in preventative double mastectomies",
+			"org": "Belfast Telegraph",
+			"date": "2015-11-25"
+		}
+	},
+	"cluster-2": {
+		"doc-1": {
+			"title": "'She had no vanity': Brad Pitt praises Angelina Jolie's courage...as tearful actress reveals her mother's heart-breaking pact with surgeon who removed her ovaries",
+			"org": "Daily Mail",
+			"date": "2015-11-02"
+		},
+		"doc-2": {
+			"title": "Angelina Jolie reveals brave decision to have her ovaries removed was her mum's dying wish",
+			"org": "Mirror",
+			"date": "2015-11-02"
+		},
+		"doc-3": {
+			"title": "Brad Pitt, Angelina Jolie sit down for rare joint interview, talk actress' 'mature' decision to undergo multiple surgeries",
+			"org": "New York Daily News",
+			"date": "2015-11-02"
+		}
+	},
+	"cluster-3": {
+		"doc-1": {
+			"title": "'He wasn't going to let me feel like less of a woman': Angelina Jolie praises Brad Pitt for his support during her surgeries in rare joint interview",
+			"org": "Daily Mail",
+			"date": "2015-10-30"
+		},
+		"doc-2": {
+			"title": "Angelina Jolie: Brad Pitt made sure I didn’t feel like less of a woman after mastectomy",
+			"org": "Mirror",
+			"date": "2015-10-30"
+		},
+		"doc-3": {
+			"title": "Angelina Jolie's double mastectomy was scary",
+			"org": "Belfast Telegraph",
+			"date": "2015-10-31"
+		}
+	},
+	"cluster-4": {
+		"doc-1": {
+			"title": "Cancer experts praise Angelina Jolie's decision to remove her ovaries two years after a double mastectomy",
+			"org": "Daily Mail",
+			"date": "2015-03-25"
+		},
+		"doc-2": {
+			"title": "Angelina Jolie makes the heartbreaking decision to remove her ovaries and fallopian tubes after cancer cells are detected",
+			"org": "Mirror",
+			"date": "2015-03-24"
+		},
+		"doc-3": {
+			"title": "Angelina Jolie has ovaries removed: 'I will not be able to have any more children, but is nothing to be feared'",
+			"org": "Belfast Telegraph",
+			"date": "2015-03-24"
+		}
+	}
+}
